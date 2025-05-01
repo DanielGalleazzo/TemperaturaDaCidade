@@ -1,0 +1,17 @@
+C:\Users\danie\Desktop\ProjetoTemperatura\ProjetoTemperatura\bin\Debug\net8.0\ProjetoTemperatura.exe
+C:\Users\danie\Desktop\ProjetoTemperatura\ProjetoTemperatura\bin\Debug\net8.0\ProjetoTemperatura.deps.json
+C:\Users\danie\Desktop\ProjetoTemperatura\ProjetoTemperatura\bin\Debug\net8.0\ProjetoTemperatura.runtimeconfig.json
+C:\Users\danie\Desktop\ProjetoTemperatura\ProjetoTemperatura\bin\Debug\net8.0\ProjetoTemperatura.dll
+C:\Users\danie\Desktop\ProjetoTemperatura\ProjetoTemperatura\bin\Debug\net8.0\ProjetoTemperatura.pdb
+C:\Users\danie\Desktop\ProjetoTemperatura\ProjetoTemperatura\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\danie\Desktop\ProjetoTemperatura\ProjetoTemperatura\obj\Debug\net8.0\ProjetoTemperatura.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\ProjetoTemperatura\ProjetoTemperatura\obj\Debug\net8.0\ProjetoTemperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\ProjetoTemperatura\ProjetoTemperatura\obj\Debug\net8.0\ProjetoTemperatura.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\ProjetoTemperatura\ProjetoTemperatura\obj\Debug\net8.0\ProjetoTemperatura.AssemblyInfo.cs
+C:\Users\danie\Desktop\ProjetoTemperatura\ProjetoTemperatura\obj\Debug\net8.0\ProjetoTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\ProjetoTemperatura\ProjetoTemperatura\obj\Debug\net8.0\ProjetoT.BD5B1857.Up2Date
+C:\Users\danie\Desktop\ProjetoTemperatura\ProjetoTemperatura\obj\Debug\net8.0\ProjetoTemperatura.dll
+C:\Users\danie\Desktop\ProjetoTemperatura\ProjetoTemperatura\obj\Debug\net8.0\refint\ProjetoTemperatura.dll
+C:\Users\danie\Desktop\ProjetoTemperatura\ProjetoTemperatura\obj\Debug\net8.0\ProjetoTemperatura.pdb
+C:\Users\danie\Desktop\ProjetoTemperatura\ProjetoTemperatura\obj\Debug\net8.0\ProjetoTemperatura.genruntimeconfig.cache
+C:\Users\danie\Desktop\ProjetoTemperatura\ProjetoTemperatura\obj\Debug\net8.0\ref\ProjetoTemperatura.dll

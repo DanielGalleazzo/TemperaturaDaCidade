@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danie\\Desktop\\ProjetoTemperatura\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36B472FE-EB7E-4460-A537-E2F01DAE98AC}|ProjetoTemperatura\\ProjetoTemperatura.csproj|c:\\users\\danie\\desktop\\projetotemperatura\\projetotemperatura\\c\u00F3digo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B472FE-EB7E-4460-A537-E2F01DAE98AC}|ProjetoTemperatura\\ProjetoTemperatura.csproj|solutionrelative:projetotemperatura\\c\u00F3digo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\ProjetoTemperatura\\ProjetoTemperatura\\C\u00F3digo\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetoTemperatura\\C\u00F3digo\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\ProjetoTemperatura\\ProjetoTemperatura\\C\u00F3digo\\Program.cs",
+              "RelativeToolTip": "ProjetoTemperatura\\C\u00F3digo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T02:58:12.288Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
