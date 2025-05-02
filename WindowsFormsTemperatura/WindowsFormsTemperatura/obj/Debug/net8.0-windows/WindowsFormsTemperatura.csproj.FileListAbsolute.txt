@@ -16,3 +16,6 @@ C:\Users\danie\Desktop\ProjetoTemperatura\WindowsFormsTemperatura\WindowsFormsTe
 C:\Users\danie\Desktop\ProjetoTemperatura\WindowsFormsTemperatura\WindowsFormsTemperatura\obj\Debug\net8.0-windows\ref\WindowsFormsTemperatura.dll
 C:\Users\danie\Desktop\ProjetoTemperatura\WindowsFormsTemperatura\WindowsFormsTemperatura\obj\Debug\net8.0-windows\WindowsFormsTemperatura.App.resources
 C:\Users\danie\Desktop\ProjetoTemperatura\WindowsFormsTemperatura\WindowsFormsTemperatura\obj\Debug\net8.0-windows\WindowsFormsTemperatura.Properties.Resources.resources
+C:\Users\danie\Desktop\ProjetoTemperatura\WindowsFormsTemperatura\WindowsFormsTemperatura\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\danie\Desktop\ProjetoTemperatura\WindowsFormsTemperatura\WindowsFormsTemperatura\obj\Debug\net8.0-windows\WindowsFormsTemperatura.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\ProjetoTemperatura\WindowsFormsTemperatura\WindowsFormsTemperatura\obj\Debug\net8.0-windows\WindowsF.AFA25798.Up2Date

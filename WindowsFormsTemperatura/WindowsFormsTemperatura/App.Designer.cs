@@ -30,8 +30,8 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(App));
             InserirNomeDaCidade = new TextBox();
-            Celsius = new Button();
-            Fah = new Button();
+            radioButton1 = new RadioButton();
+            radioButton2 = new RadioButton();
             SuspendLayout();
             // 
             // InserirNomeDaCidade
@@ -42,25 +42,27 @@
             InserirNomeDaCidade.TabIndex = 1;
             InserirNomeDaCidade.TextChanged += InserirNomeDaCidade_TextChanged;
             // 
-            // Celsius
+            // radioButton1
             // 
-            Celsius.Location = new Point(168, 309);
-            Celsius.Name = "Celsius";
-            Celsius.Size = new Size(108, 42);
-            Celsius.TabIndex = 2;
-            Celsius.Text = "Celsius";
-            Celsius.UseVisualStyleBackColor = true;
-            Celsius.Click += button1_Click;
+            radioButton1.AutoSize = true;
+            radioButton1.Location = new Point(168, 321);
+            radioButton1.Name = "radioButton1";
+            radioButton1.Size = new Size(94, 19);
+            radioButton1.TabIndex = 2;
+            radioButton1.TabStop = true;
+            radioButton1.Text = "radioButton1";
+            radioButton1.UseVisualStyleBackColor = true;
             // 
-            // Fah
+            // radioButton2
             // 
-            Fah.Location = new Point(298, 309);
-            Fah.Name = "Fah";
-            Fah.Size = new Size(108, 42);
-            Fah.TabIndex = 3;
-            Fah.Text = "Fahrenheit ";
-            Fah.UseVisualStyleBackColor = true;
-            Fah.Click += Fah_Click;
+            radioButton2.AutoSize = true;
+            radioButton2.Location = new Point(302, 321);
+            radioButton2.Name = "radioButton2";
+            radioButton2.Size = new Size(94, 19);
+            radioButton2.TabIndex = 3;
+            radioButton2.TabStop = true;
+            radioButton2.Text = "radioButton2";
+            radioButton2.UseVisualStyleBackColor = true;
             // 
             // App
             // 
@@ -68,8 +70,8 @@
             AutoScaleMode = AutoScaleMode.Font;
             BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
             ClientSize = new Size(982, 514);
-            Controls.Add(Fah);
-            Controls.Add(Celsius);
+            Controls.Add(radioButton2);
+            Controls.Add(radioButton1);
             Controls.Add(InserirNomeDaCidade);
             Name = "App";
             Text = "Form1";
@@ -81,7 +83,7 @@
 
         #endregion
         private TextBox InserirNomeDaCidade;
-        private Button Celsius;
-        private Button Fah;
+        private RadioButton radioButton1;
+        private RadioButton radioButton2;
     }
 }

@@ -15,4 +15,3 @@ C:\Users\danie\Desktop\ProjetoTemperatura\ProjetoTemperatura\obj\Debug\net8.0\re
 C:\Users\danie\Desktop\ProjetoTemperatura\ProjetoTemperatura\obj\Debug\net8.0\ProjetoTemperatura.pdb
 C:\Users\danie\Desktop\ProjetoTemperatura\ProjetoTemperatura\obj\Debug\net8.0\ProjetoTemperatura.genruntimeconfig.cache
 C:\Users\danie\Desktop\ProjetoTemperatura\ProjetoTemperatura\obj\Debug\net8.0\ref\ProjetoTemperatura.dll
-C:\Users\danie\Desktop\ProjetoTemperatura\ProjetoTemperatura\obj\Debug\net8.0\ProjetoTemperatura.sourcelink.json
