@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WindowsFormsTemperatura")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d17815af39ce2f8bb0b0865439fae5c2568e4c00")]
 [assembly: System.Reflection.AssemblyProductAttribute("WindowsFormsTemperatura")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WindowsFormsTemperatura")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
