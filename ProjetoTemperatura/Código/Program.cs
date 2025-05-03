@@ -13,10 +13,8 @@ class Program
         string TipoTemperatura = Console.ReadLine();
         string apiKey = "3ffe0230a7417daf36c0c422d9206e39";
         string url = $"http://api.openweathermap.org/data/2.5/weather?q={cidade}&appid={apiKey}&units=metric&lang=pt";
-
         if (TipoTemperatura.Contains("Celsius", StringComparison.OrdinalIgnoreCase))
         {
-
             using (HttpClient cliente = new HttpClient())
             {
                 try
@@ -38,15 +36,12 @@ class Program
                     {
                         Console.WriteLine("Usar guarda-chuva, pode estar chovendo ou choverá");
                     }
-
-
                 }
                 catch (Exception error)
                 {
                     Console.WriteLine("Código do erro: " + error.Message);
                 }
             }
-
         }
         if (TipoTemperatura.Contains("Fahrenheit", StringComparison.OrdinalIgnoreCase))
         {
@@ -76,8 +71,6 @@ class Program
                     {
                         Console.WriteLine("Relativamente calor");
                     }
-
-
                 }
                 catch (Exception error)
                 {
