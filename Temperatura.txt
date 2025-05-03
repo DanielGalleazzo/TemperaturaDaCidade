@@ -1,0 +1,4 @@
+Programa que mostra a temperatura local, o usuário digita o nome da cidade, escolhe se quer Celsius ou Fahrenheit e mostrará as informações
+Contém um programa em Windows Forms, seguindo a mesma idéia. Ele está localizado na branch master ou https://github.com/DanielGalleazzo/TemperaturaDaCidade/tree/master
+
+
