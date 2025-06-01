@@ -13,3 +13,14 @@
 
 - Consulta da temperatura atual de uma cidade informada pelo usuário.
 - Interface gráfica amigável e de fácil utilização.
+
+## Como eu posso ter uma chave API  ?
+Basta criar uma conta no site https://openweathermap.org/api e você terá uma chave :)
+
+## Vídeo Demonstrativo 
+![WindowsForms](https://raw.githubusercontent.com/DanielGalleazzo/TemperaturaDaCidade/main/Form1%202025-06-01%2019-04-17.gif)
+
+
+## Atenção sobre as branches
+Esse projeto existe duas branches, a MAIN e a MASTER, caso você queira um aplicativo de console
+eu te recomendo copiar o código da MAIN. Caso queira um WindowsForms, cole o da MASTER 
